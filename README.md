@@ -24,3 +24,4 @@ It focuses on exploring trends, visualizing stock prices, and generating insight
 - Identified seasonal/annual patterns
 - Compared high vs close price differences
 ![image alt](https://github.com/SharmaAman1/Netflix-stock-analysis/blob/49f361275e71f37d75f058e54ab722f04116201f/stock%20price.png)
+![image alt](https://github.com/SharmaAman1/Netflix-stock-analysis/blob/14023af5b3034b960dc9e269e4f4cb8e48779e34/Netflix%20stock.png)
