@@ -23,3 +23,4 @@ It focuses on exploring trends, visualizing stock prices, and generating insight
 - Observed major fluctuations in Netflix stock prices over time
 - Identified seasonal/annual patterns
 - Compared high vs close price differences
+![image alt](https://github.com/SharmaAman1/Netflix-stock-analysis/blob/49f361275e71f37d75f058e54ab722f04116201f/stock%20price.png)
